@@ -1,4 +1,5 @@
 
+#' @noRd
 reorder.names.in.complexes <- function( complexes )
 {
     complexes.split <- strsplit( complexes, ":" )

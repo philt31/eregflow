@@ -29,7 +29,4 @@
 #' 
 #' @importFrom utils read.csv read.delim write.csv 
 
-#' @docType package
-#' @name regflow-package
-
-NULL
+"_PACKAGE"
